@@ -1,6 +1,6 @@
 <?php
-define('WEBSITE_URL', 'http://localhost:8888/fluxstore_opencart/');
-define('WEBSITE_DIRECTORY', '/Users/admin/Documents/Research/fluxstore_opencart/');
+define('WEBSITE_URL', 'http://localhost:8888/fluxstore-opencart/');
+define('WEBSITE_DIRECTORY', '/Users/admin/Documents/Research/fluxstore-opencart/');
 define('CACHE_STORAGE_DIRECTORY', '/Users/admin/Documents/storage/');
 
 // HTTP
